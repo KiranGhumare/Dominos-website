@@ -269,6 +269,10 @@ h3.menu-item-title {
 
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
+  .container .jumbotron {
+    background: url('../images/jumbotron(3).jpg') no-repeat;
+    height: 275px;
+  }
   /* Header */
   .navbar-brand {
     padding-top: 10px;
